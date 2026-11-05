@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-service-management-react-native",
+  "capabilityKey": "planned:sap:service-management",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-sap-service-management-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/sap/nextjs/service-management.md",
+  "presentationPlan": "projects/sap/react-native/service-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
